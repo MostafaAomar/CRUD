@@ -30,4 +30,3 @@ if (isset($_POST['submit'])) {
    echo "User registered successfully!";
 }
 ?>
-
